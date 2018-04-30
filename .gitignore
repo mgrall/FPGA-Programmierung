@@ -1,3 +1,11 @@
+*.cache
+*.hw
+*.ip_user_files
+*.runs
+*.sim
+*.xpr
+
+
 
 # Created by https://www.gitignore.io/api/java,macos,linux,vivado,windows,intellij,xilinxvivado
 
